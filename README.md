@@ -110,16 +110,6 @@ resume-builder/
 7. **Download**: Export as PDF for job applications
 8. **Manage**: View and edit all saved resumes from the dashboard
 
-## 📚 Project Documentation
-
-- **[Project Report](./PROJECT_REPORT.md)**: Comprehensive project documentation
-- **[Video Guide](./VIDEO_GUIDE.md)**: Instructions for creating demonstration and code explanation videos
-- **[Next Steps](./NEXT_STEPS.md)**: Checklist for project submission
-
-## 🎥 Project Videos
-
-- **Project Demonstration Video (3-4 minutes)**: [Add link here]
-- **Project Code Explanation Video (4-5 minutes)**: [Add link here]
 
 ## 📝 Available Scripts
 
