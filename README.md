@@ -42,7 +42,7 @@ A modern, feature-rich resume builder application built with React.js that allow
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/YOUR_USERNAME/resume-builder.git
+   https://github.com/Devaraj974/resume-builder.git
    cd resume-builder
    ```
 
