@@ -1,0 +1,86 @@
+@import "tailwindcss";
+
+/* Use class-based dark mode: `.dark` on <html> controls all `dark:` styles */
+@custom-variant dark (&:where(.dark, .dark *));
+
+@keyframes float-glow {
+  0% {
+    transform: translate3d(0, 0, 0) scale(1);
+    opacity: 0.7;
+  }
+  50% {
+    transform: translate3d(12px, -18px, 0) scale(1.05);
+    opacity: 1;
+  }
+  100% {
+    transform: translate3d(0, 0, 0) scale(1);
+    opacity: 0.7;
+  }
+}
+
+@keyframes shimmer-line {
+  0% {
+    transform: translateX(-30%);
+    opacity: 0;
+  }
+  40% {
+    opacity: 0.7;
+  }
+  100% {
+    transform: translateX(130%);
+    opacity: 0;
+  }
+}
+
+.glow-orb {
+  position: absolute;
+  border-radius: 9999px;
+  filter: blur(28px);
+  opacity: 0.7;
+  animation: float-glow 10s ease-in-out infinite alternate;
+  pointer-events: none;
+}
+
+.glow-orb--violet {
+  background: radial-gradient(circle at 30% 30%, #a855f7, transparent 60%);
+}
+
+.glow-orb--indigo {
+  background: radial-gradient(circle at 70% 70%, #6366f1, transparent 60%);
+}
+
+.shimmer-border {
+  position: relative;
+  overflow: hidden;
+}
+
+.shimmer-border::after {
+  content: "";
+  position: absolute;
+  inset: -1px;
+  background: linear-gradient(
+    120deg,
+    transparent,
+    rgba(244, 244, 245, 0.1),
+    rgba(196, 181, 253, 0.7),
+    rgba(244, 244, 245, 0.1),
+    transparent
+  );
+  opacity: 0;
+  mix-blend-mode: screen;
+  pointer-events: none;
+  animation: shimmer-line 6s ease-in-out infinite;
+}
+
+@media print {
+  body {
+    background: white;
+  }
+  #resume-preview {
+    box-shadow: none !important;
+    border: none !important;
+  }
+  button {
+    display: none !important;
+  }
+}

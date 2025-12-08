@@ -1,0 +1,215 @@
+{
+  "resumes": [
+    {
+      "name": "Devaraj naravula",
+      "title": "frerfcw",
+      "phone": "97045321.5",
+      "email": "gddxfvgjhb",
+      "linkedin": "ljhvvb hvtyy",
+      "github": "jhvytft7yujhnimkl",
+      "website": "iuygf67g6y7u",
+      "location": "jlhvfytrfd",
+      "summary": "jugfyrdjhvf6r5d6tgyiuihj",
+      "skills": {
+        "programming": "jhvt",
+        "frameworks": "gcfg",
+        "databases": "jhvyrc",
+        "tools": "yuft7fyujk",
+        "softskills": "khhgtugy"
+      },
+      "experience": [
+        {
+          "title": "jgcftyu",
+          "company": "jhvtgh",
+          "location": "gcfgvhjn m",
+          "duration": "gb g",
+          "details": "hnjnjhjgnb"
+        }
+      ],
+      "projects": [
+        {
+          "name": "hybth",
+          "stack": "yyhtyhbttyh",
+          "description": "5y5h5y5h",
+          "link": "hhbbg"
+        }
+      ],
+      "education": [
+        {
+          "degree": "ghgghb",
+          "institution": "hbrhb",
+          "duration": "rhbryhbn",
+          "cgpa": "565"
+        }
+      ],
+      "certifications": [
+        "ghbgbgf"
+      ],
+      "achievements": [
+        "rgghtyb"
+      ],
+      "volunteer": [],
+      "languages": "ryhbry",
+      "updatedAt": "2025-12-02T12:19:08.690Z",
+      "template": "minimal",
+      "id": "XDk0ahf"
+    },
+    {
+      "name": "Devaraj naravula",
+      "title": "",
+      "phone": "97045321.5",
+      "email": "gddxfvgjhb",
+      "linkedin": "ljhvvb hvtyy",
+      "github": "jhvytft7yujhnimkl",
+      "website": "iuygf67g6y7u",
+      "location": "jlhvfytrfd",
+      "summary": "",
+      "skills": {
+        "programming": "jhvt",
+        "frameworks": "gcfg",
+        "databases": "jhvyrc",
+        "tools": "yuft7fyujk",
+        "softskills": "khhgtugy"
+      },
+      "experience": [],
+      "projects": [],
+      "education": [],
+      "certifications": [],
+      "achievements": [],
+      "volunteer": [],
+      "languages": "ryhbry",
+      "updatedAt": "2025-12-04T04:38:15.179Z",
+      "template": "modern",
+      "id": "2S7xx-t"
+    },
+    {
+      "name": "gdgt",
+      "title": "y5etry",
+      "phone": "",
+      "email": "",
+      "linkedin": "",
+      "github": "",
+      "website": "",
+      "location": "",
+      "summary": "",
+      "skills": {
+        "programming": "",
+        "frameworks": "",
+        "databases": "",
+        "tools": "",
+        "softskills": ""
+      },
+      "experience": [],
+      "projects": [],
+      "education": [],
+      "certifications": [],
+      "achievements": [],
+      "volunteer": [],
+      "languages": "",
+      "updatedAt": "2025-12-04T10:36:43.999Z",
+      "template": "minimal",
+      "id": "RCoSbrd"
+    }
+  ],
+  "users": [
+    {
+      "email": "devarajhansi974@gmail.com",
+      "password": "devaraj@974",
+      "createdAt": "2025-12-02T14:17:08.030Z",
+      "id": 1
+    }
+  ],
+  "logins": [
+    {
+      "userId": 1,
+      "email": "devarajhansi974@gmail.com",
+      "loggedAt": "2025-12-02T14:17:08.127Z",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36",
+      "id": 1
+    },
+    {
+      "userId": 1,
+      "email": "devarajhansi974@gmail.com",
+      "loggedAt": "2025-12-02T14:24:12.244Z",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36",
+      "id": 2
+    },
+    {
+      "userId": 1,
+      "email": "devarajhansi974@gmail.com",
+      "loggedAt": "2025-12-02T14:26:57.104Z",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36",
+      "id": 3
+    },
+    {
+      "userId": 1,
+      "email": "devarajhansi974@gmail.com",
+      "loggedAt": "2025-12-02T14:27:32.372Z",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36",
+      "id": 4
+    },
+    {
+      "userId": 1,
+      "email": "devarajhansi974@gmail.com",
+      "loggedAt": "2025-12-03T05:37:14.239Z",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36",
+      "id": 5
+    },
+    {
+      "userId": 1,
+      "email": "devarajhansi974@gmail.com",
+      "loggedAt": "2025-12-03T13:38:52.725Z",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36",
+      "id": 6
+    },
+    {
+      "userId": 1,
+      "email": "devarajhansi974@gmail.com",
+      "loggedAt": "2025-12-03T13:39:13.046Z",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36",
+      "id": 7
+    },
+    {
+      "userId": 1,
+      "email": "devarajhansi974@gmail.com",
+      "loggedAt": "2025-12-03T15:38:52.501Z",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0",
+      "id": 8
+    },
+    {
+      "userId": 1,
+      "email": "devarajhansi974@gmail.com",
+      "loggedAt": "2025-12-04T04:37:38.141Z",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0",
+      "id": 9
+    },
+    {
+      "userId": 1,
+      "email": "devarajhansi974@gmail.com",
+      "loggedAt": "2025-12-04T10:27:46.243Z",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0",
+      "id": 10
+    },
+    {
+      "userId": 1,
+      "email": "devarajhansi974@gmail.com",
+      "loggedAt": "2025-12-04T10:36:06.605Z",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36",
+      "id": 11
+    },
+    {
+      "userId": 1,
+      "email": "devarajhansi974@gmail.com",
+      "loggedAt": "2025-12-08T14:46:43.542Z",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0",
+      "id": 12
+    },
+    {
+      "userId": 1,
+      "email": "devarajhansi974@gmail.com",
+      "loggedAt": "2025-12-08T16:40:37.288Z",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0",
+      "id": 13
+    }
+  ]
+}
