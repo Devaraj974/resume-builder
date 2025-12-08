@@ -2,6 +2,15 @@
 
 A modern, feature-rich resume builder application built with React.js that allows users to create, customize, and manage professional resumes with multiple templates and real-time preview.
 
+
+
+## 🎥 Project Demonstration  
+📌 **Video Demo:**  
+👉 https://drive.google.com/file/d/1T8AVy-_BTbdNpSZvQ4bhHusEWnXrZvFW/view?usp=sharing 
+
+📌 **Code Explanation Video:**  
+👉 https://drive.google.com/file/d/1LmZ_DBLKzhz5bpVW9zrBsLmxMV2rmFtm/view?usp=sharing
+
 ## 🚀 Features
 
 - **Multiple Professional Templates**: Choose from 5 distinct templates (Modern, Elegant, Creative, Professional, Minimal)
